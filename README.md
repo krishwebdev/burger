@@ -1,5 +1,5 @@
 # Oakville, a free restaurant template
-Demo https://bonfork.com/preview/oakville-preview
+Demo https://krishwebdev.github.io/burger/
 
 # How to get Google API key for maps?
 
